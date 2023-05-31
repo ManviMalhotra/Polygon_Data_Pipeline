@@ -1,6 +1,6 @@
 # Polygon Data Pipeline
 
-The Project includes real time data extraction from <a href="https://polygon.io">Polygon.io for 
+The Project includes real time data extraction from <a href="https://polygon.io">Polygon.io </a> for 
   a. Stocks 
   b. Forex 
   
